@@ -1,0 +1,15 @@
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.content-and-right-column-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
